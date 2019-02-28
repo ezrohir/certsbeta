@@ -54,5 +54,3 @@ This directory contains all provisioning profiles
 ------------------------------------
 
 For more information open [fastlane match git repo](https://docs.fastlane.tools/actions/match/)
-
-change
